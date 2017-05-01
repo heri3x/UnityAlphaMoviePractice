@@ -13,6 +13,7 @@ http://tsubakit1.hateblo.jp/entry/2017/03/20/134727
 
 | フォルダ | 内容 |
 |:-----------|:------------|
+| AlphaMoviePractice/  | Unity用プロジェクトフォルダ |
 | C88unity-chan_animation/         |  Unityちゃんアルファ付き連番画像ファイル。<BR>「C88 ユニティちゃん アニメーション素材データ」(http://unity-chan.com/) を一部改変。<BR>© UTJ/UCL |
-| C88unity-chan_animation/UCL2.0/  |  Unityちゃんライセンス関連ファイル一式。|
-| ffmpeg/ | 動画変換ツール ffmpeg (Windows版) |
+| C88unity-chan_animation/UCL2.0/  |  Unityちゃんライセンス関連ファイル一式 |
+| ffmpeg/ | 動画変換ツール ffmpeg 3.2.4 (Windows 64bit static版 :  http://ffmpeg.zeranoe.com/builds/ からダウンロードして展開したもの)  |
