@@ -1,4 +1,4 @@
-# UnityAlphaMoviePractice
+# unity-alpha-movie-practice
 Unity5.6のアルファチャンネル付きムービーの練習用 (Windows用)
 
 
